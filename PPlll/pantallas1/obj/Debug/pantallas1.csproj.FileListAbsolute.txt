@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\bin\Debug\pantallas1.exe.config
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\bin\Debug\pantallas1.exe
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\bin\Debug\pantallas1.pdb
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\obj\Debug\pantallas1.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\obj\Debug\pantallas1.Form1_R.resources
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\obj\Debug\pantallas1.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\obj\Debug\pantallas1.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\obj\Debug\pantallas1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\obj\Debug\pantallas1.exe
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\obj\Debug\pantallas1.pdb
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\obj\Debug\pantallas1.Consultar_P.resources
+C:\Users\Lenovo\source\repos\pantallas1\pantallas1\obj\Debug\pantallas1.Modificar_P.resources
