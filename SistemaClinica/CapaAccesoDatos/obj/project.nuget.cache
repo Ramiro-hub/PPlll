@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2WV6ged1vR7/NfvapTuSQ2NpJhaR9cgz/FAXivwHIxd/j2FkETgSpMIK6thl8ajnvsSHnIzLSlpgSMIvkCD2ug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\SistemaClinica\\CapaAccesoDatos\\CapaAccesoDatos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

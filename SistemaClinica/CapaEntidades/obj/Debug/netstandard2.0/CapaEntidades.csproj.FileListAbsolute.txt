@@ -1,0 +1,9 @@
+C:\Users\Lenovo\source\repos\SistemaClinica\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.deps.json
+C:\Users\Lenovo\source\repos\SistemaClinica\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Lenovo\source\repos\SistemaClinica\CapaEntidades\bin\Debug\netstandard2.0\CapaEntidades.pdb
+C:\Users\Lenovo\source\repos\SistemaClinica\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SistemaClinica\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\SistemaClinica\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\SistemaClinica\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\SistemaClinica\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.dll
+C:\Users\Lenovo\source\repos\SistemaClinica\CapaEntidades\obj\Debug\netstandard2.0\CapaEntidades.pdb

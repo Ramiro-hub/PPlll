@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VIznKER9F+ubK0KLJtW/g4k/NKtRDARsosmYJhdj980FSvFBJc/qFlvEuRt9U/cA9DBHj/iqhj2CXP2hjlCecw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\source\\repos\\SistemaClinica\\CapaLogicaNegocios\\CapaLogicaNegocios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
